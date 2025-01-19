@@ -27,7 +27,7 @@
 
 
 
-# SOOP 
+# SOOP (추가분석)
 ## SOOP 채팅 데이터 분석 
 * 구독티콘 통계 : 스트리밍 플랫폼에서 특정 스트리머를 구독하게 되면 사용할 수 있는 유료 이모티콘에 관한 통계입니다. 우왁굳님의 2024년 한해동안 가장 많이 사용된 이모티콘 top30을 집계
 ![image](https://github.com/user-attachments/assets/3086c83c-b172-4cc2-9ec1-f9ac52adbdff)

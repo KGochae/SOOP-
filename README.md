@@ -9,15 +9,16 @@
 * Youtube data 수집 및 분석 
   * 채널별 기본 지표산출 (조회수, 좋아요, 댓글수 등)
   * 인기동영상 TOP20 TMI 지표 (시청자들이 가장 많이 언급한 구간, 멤버 집계)
-  * 고정멤버 썸네일 지표 (썸네일에 따라 조회수 차이가 있을까?) 
-* 구글시트로 요약 
-* ![image](https://github.com/user-attachments/assets/c488c649-9123-4a7d-a4f4-a3f510adac0a)
+  * 고정멤버 썸네일 지표 (썸네일에 따라 조회수 차이가 있을까?)
+* 구글시트로 요약
+  
+![image](https://github.com/user-attachments/assets/c488c649-9123-4a7d-a4f4-a3f510adac0a)
 
 
 
 * SOOP 보조프로그램을 기획 및 분석
   * SOOP 구독티콘 집계
-  * SOOP 우왁굳 시청자 데이터 분석
+  * SOOP 우왁굳 시청자 채팅 데이터 분석 
    
 ## 데이터 
 * SOOP 시청자 채팅 데이터
@@ -32,7 +33,7 @@
 ![image](https://github.com/user-attachments/assets/3086c83c-b172-4cc2-9ec1-f9ac52adbdff)
 ![image](https://github.com/user-attachments/assets/685731e4-d9e9-4133-b863-a4c00a6fa293)
 
-  
+
 ### 유입 시청자수
 한해동안 다양한 콘텐츠를 진행하신 우왁굳님의 유입 시청자수를 집계했습니다. 어떤 콘텐츠를 할 때 몇명의 새로운 시청자들이 들어 왔을까요?
 > * 활성화, 유입의 기준은 "첫 채팅을 친 날짜" 입니다.

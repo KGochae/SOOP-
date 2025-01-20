@@ -1,26 +1,28 @@
-# PROJECT
-* 개인방송인 우왁굳님의 2024년 한해동안 진행한 인기 콘텐츠들을 되돌아보는 팀 프로젝트 입니다.
+
+# ⚙️ PROJECT. 왁타버스 top20 인기동영상
+![크레딧](https://github.com/user-attachments/assets/5db3b5ba-2b20-468f-b56c-b0dd65b9261f)
+* 개인방송인 우왁굳님의 2024년 한해동안 진행한 인기 콘텐츠들을 분석하는 팀 프로젝트 입니다.
 * 결과물은 아래의 영상에서 보실 수 있습니다.
   
 [![Video Label](http://img.youtube.com/vi/OWTALThC-Cg/0.jpg)](https://youtu.be/OWTALThC-Cg)
 
 
-## 역할
-* Youtube data 수집 및 분석 
-  * 채널별 기본 지표산출 (조회수, 좋아요, 댓글수 등)
-  * 인기동영상 TOP20 TMI 지표 (시청자들이 가장 많이 언급한 구간, 멤버 집계)
-  * 고정멤버 썸네일 지표 (썸네일에 따라 조회수 차이가 있을까?)
-* 구글시트로 요약
-  
-![image](https://github.com/user-attachments/assets/c488c649-9123-4a7d-a4f4-a3f510adac0a)
+## ⚙️ 역할
+영상에 쓰일 아이디어와 보조프로그램 기획 및 필요한 데이터들을 수집/분석하여 구글 스프레드 시트로 제공
 
+* Youtube data 수집 및 분석 
+  * 채널별 기본 지표 산출 (조회수, 좋아요, 댓글수 등) -[Google Spread Sheet](https://docs.google.com/spreadsheets/d/1ISETliVZF2JH-WiwbCfuvXuTrliK-EQjH-M-F8C_IFw/edit?usp=sharing)
+  * 인기동영상 TOP20 TMI 지표 (시청자들이 가장 많이 언급한 구간, 멤버 집계) -[Google Spread Sheet](https://docs.google.com/spreadsheets/d/1fyS76R6fD6hWvGhoDnhWQ5v0gWM2U8cEG92zZQyw4yo/edit?usp=sharing)
+  * 고정멤버 썸네일 지표 (썸네일에 따라 조회수 차이가 있을까?) - [Google Spread Sheet](https://docs.google.com/spreadsheets/d/1Lj9PjNzPt260X1zbRV1SWollkLFOMLSgaYCfufUNbSw/edit?usp=sharing)   
+
+![image](https://github.com/user-attachments/assets/c488c649-9123-4a7d-a4f4-a3f510adac0a)
 
 
 * SOOP 보조프로그램을 기획 및 분석
   * SOOP 구독티콘 집계
   * SOOP 우왁굳 시청자 채팅 데이터 분석 
    
-## 데이터 
+## ⚙️ 데이터 수집
 * SOOP 시청자 채팅 데이터
 * TEMPERMONKEY script 를 이용하여 채팅 데이터 스크랩핑
 
@@ -29,15 +31,15 @@
 
 # SOOP (추가분석)
 ## SOOP 채팅 데이터 분석 
-* 구독티콘 통계 : 스트리밍 플랫폼에서 특정 스트리머를 구독하게 되면 사용할 수 있는 유료 이모티콘에 관한 통계입니다. 우왁굳님의 2024년 한해동안 가장 많이 사용된 이모티콘 top30을 집계
+* 구독티콘 통계
+> 스트리밍 플랫폼에서 특정 스트리머를 구독하게 되면 사용할 수 있는 유료 이모티콘에 관한 통계입니다. 우왁굳님의 2024년 한해동안 가장 많이 사용된 이모티콘은 무엇일까요🤔?
 ![image](https://github.com/user-attachments/assets/3086c83c-b172-4cc2-9ec1-f9ac52adbdff)
 ![image](https://github.com/user-attachments/assets/685731e4-d9e9-4133-b863-a4c00a6fa293)
 
 
 ### 유입 시청자수
-한해동안 다양한 콘텐츠를 진행하신 우왁굳님의 유입 시청자수를 집계했습니다. 어떤 콘텐츠를 할 때 몇명의 새로운 시청자들이 들어 왔을까요?
-> * 활성화, 유입의 기준은 "첫 채팅을 친 날짜" 입니다.
-> * 첫방송 2월4일 부터 11월 31일까지 월별 유입 시청자수 집계
+> 한해동안 다양한 콘텐츠를 진행하신 우왁굳님의 유입 시청자수를 집계했습니다. 어떤 콘텐츠를 할 때 몇명의 새로운 시청자들이 들어 왔을까요🤔?
+> 활성화, 유입의 기준은 "첫 채팅을 친 날짜" 입니다.
 ![image](https://github.com/user-attachments/assets/ec513fda-1918-4b4b-8d73-ace9e31180c7)
  
 > * 카테고리(콘텐츠)별 유입 시청자수 집계
